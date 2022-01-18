@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Александр Демин](https://up.htmlacademy.ru/htmlcss/33/user/2005991).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Цыганков](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
